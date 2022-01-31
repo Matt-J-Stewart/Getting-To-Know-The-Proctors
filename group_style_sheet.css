@@ -1,0 +1,15 @@
+﻿img {
+    height: 200px;
+    width: 200px;
+    padding: 40px;
+}
+
+#titleSection {
+    text-align: center;
+    font-family: "Times New Roman", "Times", "serif";
+    
+}
+
+#teamPictures {
+    margin-top: 100px;
+}
