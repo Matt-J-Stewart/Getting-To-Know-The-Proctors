@@ -1,5 +1,6 @@
 ﻿body {
     background-color: #D3D3D3;
+    
 }
 
 h1 {
@@ -40,9 +41,10 @@ img {
     margin-top: 100px;
     margin-left: 15px;
     margin-right: 15px;
+    text-align: center;
 }
 
-figure{
+figure {
     display: inline-block;
     margin: 10px;
 }
@@ -52,4 +54,8 @@ figcaption{
     margin-bottom: 10px;
     font-size: x-large
 
+}
+
+#memberText {
+    text-align: left;
 }
